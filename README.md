@@ -1,1 +1,1 @@
-#Primeiro desafio de projeto do Bootlcamo Kotlin Experience da DIO
+#Repositório referente aos códigos feitos no Bootcamp Kotlin Experience da Dio
